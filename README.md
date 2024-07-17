@@ -1,7 +1,8 @@
 Pour utiliser la simulation de feu de forêt : ouvrir le fichier dist/index.html
 
 Pour modifier le code ou le fichier de configuration :
-npm init --yes
+Version de node : 16.11.0
+Version de npm : 8.0.0
 npm install --save-dev webpack webpack-dev-server webpack-cli
 npm install --save-dev typescript ts-loader
 npm run build
