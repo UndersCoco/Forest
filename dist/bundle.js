@@ -46,7 +46,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \****************************/
 /***/ ((module) => {
 
-eval("module.exports = /*#__PURE__*/JSON.parse('{\"height\":15,\"width\":10,\"proba\":0.5,\"fires\":[[2,8],[3,3]],\"sleep\":1000}');\n\n//# sourceURL=webpack://projet/./config/config.json?");
+eval("module.exports = /*#__PURE__*/JSON.parse('{\"height\":15,\"width\":10,\"proba\":0.6,\"fires\":[[2,8],[3,3]],\"sleep\":500}');\n\n//# sourceURL=webpack://projet/./config/config.json?");
 
 /***/ })
 
